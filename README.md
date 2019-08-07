@@ -1,1 +1,14 @@
 # software-engineering-mentorship
+
+  My name is OMILO, Samuel Lawrence ,I am currently a part 1 student of Computer science with maths Obafemi Awolowo University,osun state .I am from delta state and have been residing in Lagos ikeja all my life. I am an introvert by nature but get to leave my box once I’m comfortable in the environment,an ambivert . I am the class rep for my class (Computer science and engineering part 1) and it has been a stressful but lessons filled journey so far,I’ve learnt to communicate with people who have no interest in being spoken to and a lot of other stuff,multi thinking has become a norm .
+
+
+  I finished OAU predegree as the best in my combination and have been working towards not dropping the standard for anything including my class rep duties. I found I have interest for computers during my JSS2 where I was taught BASIC as a programming language and then in my Jss3 started using Qpython to write tiny programs with python (which I later forgot after my period Through secondary school,LOL ) . I started working on Android apps following the Udacity courses online during my long break after secondary school and due to hindrances had to move slightly towards python/Django .
+
+  My first working experience was a two month internship at “ULTRA MEDIA SOLUTIONS" ikeja Lagos where I had to take part in massive digit marketing processes and learn graphics design using photoshop along with introduction to ionic JS ,The period working there was fun and eventful ,learnt a lot but I wish I could have gotten the chance to join the software dev team . 
+
+  Becoming a software engineer has always been my dream,from seeing BASIC and wanting to be a video game developer to sending funny twitter tags to John carmack(CTO oculus) as a child ,I believe the path to being one wouldn’t be so easy using the knowledge from my BSc program and so looking forward to finding opportunities to mix programming with my studies on a safe and steady rate . 
+
+  I’m won’t say I’m the most open person but I always look forward to meeting new minds and pricking into people’s ideas of life and problem solving . Following my keen interest in math and physics I’ve always had a flare for solving problems . I have three siblings including Two brothers and a sister ,my brothers are both graduates of OAU and my sister one from University of Abuja ,I look forward to doing as well as my eldest brother did in the great university and getting a first class .
+
+  I look forward to getting the opportunity to solve real world problems by writing lines of code,my current goal is to get through with school and get into solving complex problems ,I’ve had some bad experiences in life some as a result of incompetence of the system and I hope to help preventing such occurrences by preferring tactical and lasting  solutions . 
